@@ -49,7 +49,7 @@ Shows how electric vehicle adoption has increased over time.
 ## Top EV Manufacturers
 Displays manufacturers producing the most electric vehicles.
 
-#  Vehicle Type Distribution
+##  Vehicle Type Distribution
 Compares Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV).
 
 ## Geographical Distribution
